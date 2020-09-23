@@ -1,0 +1,1 @@
+[{"id":1,"nombre":"matematica","cuatrimestre":"segundo"},{"id":2,"nombre":"programacion 3","cuatrimestre":"primero"},{"id":3,"nombre":"historia","cuatrimestre":"segundo"}]
